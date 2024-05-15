@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GavinBilibili
+- 👋 Hi, I’m @Gavin_CN
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning C++
 - 📫 reach me ：a246888@outlook.com
